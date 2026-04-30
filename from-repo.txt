@@ -1,3 +1,4 @@
+arquivo txt adicionado diretamente pelo repo editando remotamente
 arquivo txt adicionado (editei agora pela branch local, vou apagar a palavra diretamente) pelo repo
 
 estou adicionando conteudo novo a partir da branch local.
